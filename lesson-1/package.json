@@ -1,0 +1,23 @@
+{
+  "name": "typescript-itvdn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iSteffan/typescript-itvdn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iSteffan/typescript-itvdn/issues"
+  },
+  "homepage": "https://github.com/iSteffan/typescript-itvdn#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
