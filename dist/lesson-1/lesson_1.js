@@ -35,4 +35,4 @@ function calculateIceCreamCost() {
     alert(`Вартість вашого морозива: ${totalCost} грн`);
 }
 calculateIceCreamCost();
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=lesson_1.js.map
