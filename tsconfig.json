@@ -1,13 +1,12 @@
 {
   "compilerOptions": {
-    "target": "es2016",
-    "lib": ["dom", "es6", "dom.iterable", "scripthost"],
-    "module": "commonjs",
+    "target": "es2017",
+    "module": "es6",
     "noImplicitAny": true,
     "removeComments": true,
     "sourceMap": true,
     "outDir": "./dist"
   },
-  "include": ["./**/*.ts"],
+  "include": ["**/*.ts"],
   "exclude": ["node_modules"]
 }
